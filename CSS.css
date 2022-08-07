@@ -1,0 +1,171 @@
+*{
+    margin:0;
+}
+
+header{
+    background-color: #4A5ADC;
+    display: flex;
+    justify-content: space-between;
+    height: 232px;
+}
+
+.sh1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    color: white;
+    padding-top: 80px;
+    padding-left: 30px;
+}
+
+.rightheader{
+    display: flex;
+    flex-direction: column;
+    padding-top: 32px;
+    padding-right: 350px;
+}
+
+.sh2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    color: white;
+    margin-bottom: 37px;
+}
+
+#coverNav{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+#coverNav>span>a{
+    text-decoration:none;
+    color: white;
+}
+
+#coverNav>span{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+}
+
+/*      main      */
+
+.m1{
+    width: 1828px;
+    height: 735px;  
+}
+main>div>img{
+    width: 1828px;
+    height: 735px;  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*      footer      */
+
+.f1{
+    display: flex;
+    width: 1920px;
+    height: 200px;
+    background-color: #282828;
+}
+
+.fl{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.fr{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 50%;
+}
+
+.fp1{
+    width: 320px;
+    height: 48px;
+
+    color: white;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;
+
+    padding-left: 94px;
+    padding-top: 39px;
+}
+
+.fp2{
+    width: 198px;
+    height: 48px;
+
+    color: white;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+
+    padding-left: 94px;
+    padding-top: 13px;
+}
+
+.fp3{
+    width: 531px;
+    height: 48px;
+
+    color: white;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;    
+
+    padding-right: 96px;
+    padding-top: 39px;
+}
+
+.fp4{
+    width: 246px;
+    height: 48px;
+
+    color: white;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+
+    padding-top: 100px;
+}
+
